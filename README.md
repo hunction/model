@@ -1,2 +1,3 @@
-# model
-ai model
+# 손글씨 이미지를 받아 80가지의 클래스로 분류하는 model
+
+# Backbone으로 ResNet50d를 사용하고 , 학습에 사용되는 dataset의 비율 및 갯수 증강을 위한 테크닉들이 들어있는 Code / 학습 데이터는 개인이 보유
